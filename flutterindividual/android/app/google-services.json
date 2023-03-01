@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607289014964",
+    "project_id": "tealicious-8df02",
+    "storage_bucket": "tealicious-8df02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607289014964:android:0a0169badcbf65248335e1",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607289014964-jp0jet0v11dius4eskrn2v155mt9mm0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYdub4FCfM7-PRXgV4pSwLU5hcugu6_ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607289014964-jp0jet0v11dius4eskrn2v155mt9mm0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
